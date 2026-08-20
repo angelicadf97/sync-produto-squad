@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+sync-prazo-state-*.json
+ciclo-vida*.csv
+build/
+dist/
+*.spec
