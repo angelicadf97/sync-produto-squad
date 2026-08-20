@@ -1,4 +1,4 @@
-# Instala as dependências e configura o início automático no Windows.
+﻿# Instala as dependências e configura o início automático no Windows.
 # Uso recomendado: dê duplo clique em install-windows.bat (evita o bloqueio padrão de
 # execução de scripts do Windows). Rodar este .ps1 direto pode ser bloqueado pela política
 # de execução do PowerShell — nesse caso, use o .bat.
