@@ -73,4 +73,6 @@ python3 menu.py                # menu interativo em texto
 - `configurar.py` / `gui.py` (botão "Configurar") — assistente de configuração de squads
 - `gui.py` — ícone de bandeja (interface principal)
 - `menu.py` — menu em texto, alternativa ao `gui.py` pra quem prefere terminal
-- `config.json` — squads configuradas (Project Produto, Project de cada squad, campos)
+- `config.json` — squads configuradas (Project Produto, Project de cada squad, campos).
+  **Não é versionado** (fica só na sua máquina) — cada pessoa cria o seu pelo assistente
+  (botão ⚙ ou `configurar.py`). `config.example.json` mostra o formato.

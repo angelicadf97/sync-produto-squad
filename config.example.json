@@ -1,0 +1,13 @@
+{
+  "org": "SUA_ORGANIZACAO",
+  "default_repo": "SUA_ORGANIZACAO/algum-repo",
+  "produto": {
+    "project_number": 0,
+    "fields": {
+      "start": "",
+      "due": "",
+      "estimativa": ""
+    }
+  },
+  "squads": {}
+}

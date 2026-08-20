@@ -5,3 +5,4 @@ ciclo-vida*.csv
 build/
 dist/
 *.spec
+config.json
