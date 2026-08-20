@@ -28,8 +28,8 @@ sua senha de sudo pra um pacote do sistema) e cria o atalho + início automátic
 
 1. Instale o [Python](https://python.org/downloads) (marque "Add python.exe to PATH" na instalação) e o [GitHub CLI](https://cli.github.com).
 2. Baixe/clone este repositório.
-3. Clique com botão direito em `install-windows.ps1` → **Executar com PowerShell**
-   (ou abra o PowerShell na pasta e rode `.\install-windows.ps1`).
+3. Dê **duplo clique em `install-windows.bat`** (não no `.ps1` diretamente — o Windows
+   bloqueia scripts PowerShell por padrão, e o `.bat` já contorna isso).
 
 Isso instala as dependências e cria um atalho em "Iniciar" + início automático.
 
